@@ -15,13 +15,30 @@
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
 <a href="https://github.com/Geniuspheres"><img src="https://img.shields.io/badge/ORG%3A_GENIUSPHERES-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&width=100%" width="100%"/>
-
 </div>
 
 <br/>
 
-## `$ whoami`
+```
+██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║
+██████╔╝███████║██║   ██║███████║██╔██╗ ██║
+██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
+██║     ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
+╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
+██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&width=100%" width="100%"/>
+</div>
+
+<br/>
 
 ```bash
 pavan@geniusphere:~$ whoami
@@ -37,48 +54,18 @@ pavan@geniusphere:~$ cat mindset.txt
 
 <br/>
 
-## `$ neofetch`
-
-<table>
-<tr>
-<td width="180" valign="top">
-<img src="https://github.com/PavanKumar-HQ.png" width="160" style="border-radius:8px;border:1px solid #00FF41;"/>
-</td>
-<td valign="top">
-
-```yaml
-pavan@geniusphere
------------------
-OS:          Human (BCA Build, 2nd Year)
-Host:        Bangalore, Karnataka, IN
-Uptime:      765 contributions / 365d
-Packages:    23 repos, 5 stars
-Shell:       bash + curiosity
-Ventures:    Geniusphere, Brandex
-Languages:   JS · TS · Python · Java/Kotlin · C/C++ · Astro
-Backend:     Supabase, Firebase Studio, MongoDB
-Deploy:      Vercel, Netlify
-Editor:      vibes + iteration
-Theme:       Build → Break → Learn → Rebuild
 ```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif)
-
-## `$ ls -la ventures/`
+ ██████╗ ███████╗███╗   ██╗██╗██╗   ██╗███████╗██████╗ ██╗  ██╗███████╗██████╗ ███████╗
+██╔════╝ ██╔════╝████╗  ██║██║██║   ██║██╔════╝██╔══██╗██║  ██║██╔════╝██╔══██╗██╔════╝
+██║  ███╗█████╗  ██╔██╗ ██║██║██║   ██║███████╗██████╔╝███████║█████╗  ██████╔╝█████╗
+██║   ██║██╔══╝  ██║╚██╗██║██║██║   ██║╚════██║██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗██╔══╝
+╚██████╔╝███████╗██║ ╚████║██║╚██████╔╝███████║██║     ██║  ██║███████╗██║  ██║███████╗
+ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-```
-drwxr-xr-x  geniusphere/
-```
 
 **🌐 Geniusphere** `[status: active]`
 
@@ -95,10 +82,6 @@ Student-first tech & innovation initiative — practical exposure, AI literacy a
 
 </td>
 <td width="50%" valign="top">
-
-```
-drwxr-xr-x  brandex/
-```
 
 **◼ Brandex** `[status: active]`
 
@@ -119,7 +102,14 @@ Digital products & business experimentation lab — find the problem, prototype 
 
 <br/>
 
-## `$ git log --oneline --graph repos/`
+```
+██████╗ ███████╗██████╗  ██████╗ ███████╗
+██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔════╝
+██████╔╝█████╗  ██████╔╝██║   ██║███████╗
+██╔══██╗██╔══╝  ██╔═══╝ ██║   ██║╚════██║
+██║  ██║███████╗██║     ╚██████╔╝███████║
+╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚══════╝
+```
 
 ```
 * Power-sense-ai   AI-driven smart energy sim — R3F 3D holographic command
@@ -137,9 +127,14 @@ Digital products & business experimentation lab — find the problem, prototype 
 
 <br/>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif)
-
-## `$ cat stack.yaml`
+```
+███████╗████████╗ █████╗  ██████╗██╗  ██╗
+██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+███████╗   ██║   ███████║██║     █████╔╝
+╚════██║   ██║   ██╔══██║██║     ██╔═██╗
+███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
 <div align="center">
 
@@ -162,9 +157,14 @@ Digital products & business experimentation lab — find the problem, prototype 
 
 <br/>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif)
-
-## `$ ./run_stats.sh`
+```
+███████╗████████╗ █████╗ ████████╗███████╗
+██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝
+███████╗   ██║   ███████║   ██║   ███████╗
+╚════██║   ██║   ██╔══██║   ██║   ╚════██║
+███████║   ██║   ██║  ██║   ██║   ███████║
+╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PavanKumar-HQ&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
@@ -182,18 +182,6 @@ Digital products & business experimentation lab — find the problem, prototype 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PavanKumar-HQ&theme=matrix&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
-
-<br/>
-
-## `$ grep -r "ask me" /topics/`
-
-```
-./ai.md            → building with LLMs, agentic tools, applied AI
-./product.md       → product strategy, MVP thinking, positioning
-./edtech.md        → tech in education, student engagement
-./startups.md      → 0→1 execution, experimentation
-./automation.md    → workflows, no-fluff productivity
-```
 
 <br/>
 
