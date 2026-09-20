@@ -1,176 +1,166 @@
-<div align="center">
+<h1 align="center">
+  👋 Hi, I'm Pavan Kumar
+</h1>
 
-# PAVAN KUMAR
+<p align="center">
+  <b>Technology • AI • Business • Education</b>
+</p>
 
-### Technology × AI × Business × Education
-
-`I build. I break. I build better.`
-
-</div>
+<p align="center">
+  I build. I break. I build better.
+</p>
 
 ---
 
-## 👋 About Me
+## 🧭 About Me
 
-I'm Pavan — I like turning ideas into experiments, products and practical solutions.
+I'm a builder and experimenter interested in the intersection of **technology, artificial intelligence, business and education**.
 
-My interests sit around **technology, AI, business and education**.
+I like taking an idea, turning it into something tangible, testing it in the real world, learning from what breaks, and building the next version better.
 
-Rather than collecting technologies, I prefer learning by building, testing and improving.
+- 🧠 **AI:** Exploring AI tools, AI-powered products and practical applications.
+- 🚀 **Building:** Turning ideas into products, experiments and initiatives.
+- 💼 **Business:** Interested in product thinking, strategy and technology-driven businesses.
+- 🎓 **Education:** Working on ways to make technology and practical skills more accessible to students.
+- 🧪 **Experimentation:** Learning primarily by building, testing and questioning assumptions.
 
 ---
 
 ## 🚀 Currently Building
 
+### 🌐 Geniusphere
+
+A student-focused technology and innovation initiative working around:
+
+`Technology` `AI` `Innovation` `Education` `Professional Skills`
+
+The focus is on helping students explore technology beyond the traditional syllabus through practical exposure, workshops and experimentation.
+
+### ◼ Brandex
+
+Exploring and building around:
+
+`Digital Products` `Technology` `Business` `Community`
+
+The goal is to identify real problems, experiment with solutions and understand what can actually become useful products or businesses.
+
+---
+
+## 🔭 Currently Exploring
+
+- 🤖 Artificial Intelligence & AI tools
+- 🧩 AI-assisted product building
+- 📊 Product & business strategy
+- 🏫 Technology in education
+- ⚙️ Automation & productivity
+- 🌍 Emerging technologies
+- 🧠 How technology can solve real-world problems
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🤖 AI & Productivity
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=flat-square&logo=google&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+### 💻 Technology
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+
+### 📈 Business & Creation
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## 🧪 Selected Experiments & Projects
+
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 🌐 Geniusphere
 
-### 🌐 GENIUSPHERE
-
-**Technology × Education**
-
-A student-focused initiative exploring technology, AI, innovation and practical learning beyond the traditional classroom.
-
-`Education` `Technology` `Innovation`
+Technology + education initiative focused on practical learning, innovation and student exposure.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### ◼ BRANDEX
+### ◼ Brandex
 
-**Technology × Business**
+Technology, digital products and business experimentation.
 
-Building and experimenting with digital products, technology solutions and business ideas.
+</td>
+</tr>
 
-`Products` `Technology` `Business`
+<tr>
+<td width="50%">
+
+### ⚡ Power-sense-ai
+
+An experiment exploring AI-driven energy systems and technology.
 
 </td>
 
+<td width="50%">
+
+### 🧩 More Experiments
+
+Small products, prototypes and ideas built while learning.
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🧠 Exploring
+## 📊 GitHub Stats
 
-<div align="center">
-
-`ARTIFICIAL INTELLIGENCE` &nbsp; `PRODUCT` &nbsp; `BUSINESS`
-
-`EDUCATION` &nbsp; `AUTOMATION` &nbsp; `EMERGING TECHNOLOGY`
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanKumar-HQ&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumar-HQ&layout=compact&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 🔨 Selected Work
+## 📈 Contribution Activity
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Geniusphere
-
-Technology and innovation initiatives focused on practical student learning.
-
-**Focus:** Education · AI · Innovation
-
-</td>
-
-<td width="50%" valign="top">
-
-### Brandex
-
-Digital products, technology experiments and business exploration.
-
-**Focus:** Products · Technology · Business
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Power-sense-ai
-
-An experiment exploring AI and energy-related technology.
-
-**Focus:** AI · Energy
-
-</td>
-
-<td width="50%" valign="top">
-
-### More Experiments
-
-Small products, experiments and ideas built while learning.
-
-**Focus:** Building · Testing · Learning
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKumar-HQ&hide_border=true"/>
+</p>
 
 ---
 
-## 🛠️ Toolkit
+## 🌐 Socials
 
-<div align="center">
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 
-### AI
-
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=google&logoColor=white"/>
-
-### Productivity & Technology
-
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-
-</div>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 💬 Ask Me About
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PavanKumar-HQ&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumar-HQ&layout=compact&hide_border=true"/>
-
-</div>
+`AI` `Technology` `Products` `Business` `Education` `Innovation`
 
 ---
 
-## 🌐 Connect
-
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**`Technology is the tool. Problems are the starting point.`**
+### ⚡ Build → Test → Break → Learn → Build Better
 
 </div>
