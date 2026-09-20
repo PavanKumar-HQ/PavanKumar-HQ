@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**PavanKumar-HQ/PavanKumar-HQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and experiment at the intersection of **technology, AI, business, and education**.
 
-Here are some ideas to get you started:
+I'm interested in turning ideas into practical products, exploring emerging technology, and creating initiatives that make technology more useful and accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+
+### Geniusphere
+A student-focused technology and innovation initiative exploring technology education, AI, professional skills, and practical learning.
+
+### Brandex
+Working on digital products, technology solutions, and experiments around business and community building.
+
+---
+
+## 🧠 What I'm Exploring
+
+- Artificial Intelligence
+- AI-powered products
+- Product & business strategy
+- Technology education
+- Automation
+- Emerging technologies
+
+---
+
+## 🛠️ Tools & Technologies
+
+- AI & Productivity Tools
+- Microsoft
+- Notion
+- Supabase
+- Web Technologies
+- Automation Tools
+
+---
+
+## 📌 Selected Work
+
+More projects and experiments coming here.
+
+---
+
+## 🌐 Connect
+
+LinkedIn • Instagram • Website
