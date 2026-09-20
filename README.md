@@ -1,92 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:172033&height=190&section=header&text=PAVAN%20KUMAR%20S&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technology%20%E2%80%A2%20AI%20%E2%80%A2%20Business%20%E2%80%A2%20Education&descAlignY=58&descSize=16" width="100%"/>
-
-<br>
-
-<img src="https://github.com/PavanKumar-HQ.png" width="130"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Builder+%7C+Experimenter;Founder+%40+Geniusphere;Building+with+Brandex;AI+%2B+Products+%2B+Business;Build.+Break.+Build+Better." />
-
-<br><br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:0D1117&height=180&section=header&text=PAVAN_KUMAR_S&fontSize=42&fontColor=00FF41&fontAlignY=45&animation=twinkling&desc=root@bangalore:~%23&descAlignY=68&descSize=18&descColor=00FF41" width="100%"/>
 
 </div>
 
----
+```bash
+┌──(pavan㉿geniusphere)-[~]
+└─$ whoami
+```
 
-## 👋 About Me
-
-I'm a BCA student from Bangalore interested in **technology, AI, products and business**.
-
-I like turning ideas into experiments, seeing what works, breaking what doesn't, and building the next version better.
-
-- 🚀 Founder — **Geniusphere**
-- ◼ Building with **Brandex**
-- 🤖 Exploring **AI & emerging technology**
-- 🧠 Interested in **products, business & education**
-
----
-
-## 🚀 Currently Building
+```
+██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║
+██████╔╝███████║██║   ██║███████║██╔██╗ ██║
+██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
+██║     ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
+╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <div align="center">
 
-| 🌐 Geniusphere | ◼ Brandex |
-|---|---|
-| Technology & innovation initiative focused on students and practical learning. | Exploring digital products, technology and real-world business problems. |
-| `Education` `AI` `Innovation` | `Products` `Business` `Technology` |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=2nd-Year+BCA+Student+%40+Bangalore%2C+India;Founder+%40+Geniusphere+%7C+Co-founder+%40+Brandex;build.exe+%E2%86%92+break.exe+%E2%86%92+learn.log+%E2%86%92+rebuild.exe;status%3A+shipping" alt="Typing SVG" />
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://github.com/Geniuspheres"><img src="https://img.shields.io/badge/ORG%3A_GENIUSPHERES-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tools I Use
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif)
+
+## `$ cat neofetch.txt`
+
+<table>
+<tr>
+<td width="180" valign="top">
+<img src="https://github.com/PavanKumar-HQ.png" width="160" style="border-radius:8px;border:1px solid #00FF41;"/>
+</td>
+<td valign="top">
+
+```yaml
+pavan@geniusphere
+-----------------
+OS:          Human (BCA Build, 2nd Year)
+Host:        Bangalore, Karnataka, IN
+Kernel:      Vibe-coder v2026
+Uptime:      765 contributions / 365d
+Packages:    23 repos, 5 stars
+Shell:       bash + curiosity
+Ventures:    Geniusphere, Brandex
+Languages:   JS · TS · Python · Java/Kotlin · C/C++ · Astro
+Backend:     Supabase, Firebase Studio, MongoDB
+Deploy:      Vercel, Netlify
+Theme:       Build → Break → Learn → Rebuild
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `$ ls -la ventures/`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```
+drwxr-xr-x  geniusphere/
+```
+
+**🌐 Geniusphere** `[status: active]`
+
+Student-first tech & innovation initiative — practical exposure, AI literacy and workshops that push learning past the syllabus.
+
+```diff
++ hands-on workshops
++ applied AI literacy
++ innovation sprints
++ syllabus  ->  real capability
+```
+
+`#Education` `#AI` `#Innovation` `#Workshops`
+
+</td>
+<td width="50%" valign="top">
+
+```
+drwxr-xr-x  brandex/
+```
+
+**◼ Brandex** `[status: active]`
+
+Digital products & business experimentation lab — find the problem, prototype fast, validate what's real.
+
+```diff
++ problem discovery
++ rapid MVP cycles
++ product strategy
++ community validation
+```
+
+`#DigitalProducts` `#Strategy` `#Business` `#MVP`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `$ git log --oneline --graph repos/`
+
+```
+* Power-sense-ai   AI-driven smart energy sim — R3F 3D holographic command
+|                   table, ML occupancy prediction, temporal energy grid
+* Nebula-AI        Internship / AI experimentation project        [TS]
+* Geniusphere      Core repo — the Geniusphere initiative          [TS]
+* Meshpaw          Web experiment / product prototype              [JS]
+* Pavankumar       Personal site                                [Astro]
+* badminton        Side project / prototype                        [TS]
+```
+
+<div align="center">
+<sub><a href="https://github.com/PavanKumar-HQ?tab=repositories">→ full repo list</a></sub>
+</div>
+
+<br/>
+
+## `$ cat /proc/stack/info`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/NotebookLM-111111?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,cpp,c,astro,react,nodejs,threejs,supabase,firebase,mongodb,vercel,netlify,github,figma,notion&theme=dark" />
 
 </div>
 
----
-
-## 📊 GitHub
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PavanKumar-HQ&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumar-HQ&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+<img src="https://img.shields.io/badge/AI_TOOLS-000000?style=flat-square&logoColor=00FF41&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/ChatGPT-black?style=flat-square&logo=openai&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Gemini-black?style=flat-square&logo=google&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Claude-black?style=flat-square&logo=anthropic&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NotebookLM-black?style=flat-square&logo=google&logoColor=00FF41&labelColor=000000"/>
 
 </div>
 
----
+<br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif)
+
+## `$ ./run_stats.sh`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PavanKumar-HQ&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumar-HQ&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=c9d1d9" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKumar-HQ&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanKumar-HQ&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PavanKumar-HQ&theme=matrix&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
+
+<br/>
+
+## `$ grep -r "ask me" /topics/`
+
+```
+./ai.md            → building with LLMs, agentic tools, applied AI
+./product.md       → product strategy, MVP thinking, positioning
+./edtech.md        → tech in education, student engagement
+./startups.md       → 0→1 execution, experimentation
+./automation.md    → workflows, no-fluff productivity
+```
+
+<br/>
 
 <div align="center">
 
-### `Build → Break → Build Better`
+```bash
+$ echo "Build → Test → Break → Learn → Build Better"
+Build → Test → Break → Learn → Build Better
+$ _
+```
 
-<a href="https://github.com/Geniuspheres">
-<img src="https://img.shields.io/badge/Geniusphere-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
