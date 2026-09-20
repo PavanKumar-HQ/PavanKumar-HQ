@@ -1,84 +1,59 @@
-$ pavan --version
-pavan-kumar-s@2.0.0-dev (BCA 2nd Year, Bangalore, India)
+<div align="center">
 
-$ pavan status
-Current Focus: Scaling Geniusphere workshops & rapid prototyping at Brandex
-Core Stack   : TypeScript, React, Python, Three.js, Node.js, Cloud Run
-Philosophy   : "Prototype in days, validate with real users, refactor with scale in mind."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=220&section=header" width="100%"/>
 
+<br/>
 
-📍 Base: Bengaluru, Karnataka, India
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=PAVAN+KUMAR+S;GENIUSPHERE+%F0%9F%8C%90;BRANDEX+%E2%97%BC;BUILD.+BREAK.+REBUILD." alt="Typing SVG" />
 
-🎓 Education: 2nd-Year Bachelor of Computer Applications (BCA)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=650&lines=2nd-Year+BCA+Student+%E2%80%A2+Bangalore%2C+India;root%40geniusphere%3A~%23" alt="Typing SVG" />
 
-🚀 Venture Operator: Founder at Geniusphere & Co-founder at Brandex
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&width=100%" width="100%"/>
 
-🔭 R&D Interests: Agentic AI pipelines, spatial 3D web interfaces, and high-concurrency cloud backends
-
-02 ⌁ Ventures & Initiatives
-
-<b>Core Objectives:</b>
-<ul>
-  <li>🎓 Practical, production-aligned software engineering skill-building</li>
-  <li>🤖 Applied AI literacy & hands-on model integration workshops</li>
-  <li>🚀 Innovation sprints & collaborative student project incubators</li>
-</ul>
-
-<div>
-  <img src="https://img.shields.io/badge/EdTech-22C55E?style=flat-square&logo=google-classroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Applied_AI-6366F1?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workshops-F59E0B?style=flat-square" />
 </div>
 
+<br/>
 
-<p>A digital products and business experimentation lab. We focus on rapid problem discovery, lean MVPs, and finding distribution loops for early-stage web applications.</p>
+## `$ whoami`
 
-<b>Core Objectives:</b>
-<ul>
-  <li>🔍 Rigorous problem discovery prior to code execution</li>
-  <li>⚡ Rapid MVP development cycles with direct user feedback</li>
-  <li>📊 Growth strategy, unit economics, and scalable brand design</li>
-</ul>
+```bash
+pavan@geniusphere:~$ whoami
+> Pavan Kumar S
+> 2nd-year BCA student · Bangalore, Karnataka
+> Founder @ Geniusphere — student tech & innovation initiative
+> Co-founder @ Brandex — digital products & business lab
+> Currently: building, breaking, shipping — repeat.
 
-<div>
-  <img src="https://img.shields.io/badge/Product_Design-EC4899?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rapid_MVP-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Go--To--Market-EAB308?style=flat-square" />
+pavan@geniusphere:~$ cat mindset.txt
+> Build → Test → Break → Learn → Build Better
+```
+
+<br/>
+
+## `$ cat stack.yaml`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,cpp,c,astro,react,nodejs,threejs,supabase,firebase,mongodb,vercel,netlify,github,figma,notion&theme=dark&perline=10" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge&logo=google&logoColor=00FF41&labelColor=000000"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=00FF41&labelColor=000000"/>
+
 </div>
 
+<br/>
 
-03 ⌁ Selected Repositories & Proof-of-Work
+<div align="center">
 
-04 ⌁ Technical Stack & Ecosystem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=150&section=footer" width="100%"/>
 
-
-Frameworks, Libraries & 3D
-
-
-
-
-
-
-
-Databases, Cloud & Hosting
-
-
-
-
-
-
-
-AI Tools, Tooling & Workflow
-
-
-
-
-
-
-
-
-05 ⌁ Telemetry & Activity
-
-06 ⌁ Let's Collaborate
-
-Build → Test → Break → Learn → Ship Better
+</div>
