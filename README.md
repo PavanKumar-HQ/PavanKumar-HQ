@@ -4,20 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=PAVAN+KUMAR+S;GENIUSPHERE+%F0%9F%8C%90;BRANDEX+%E2%97%BC;BUILD.+BREAK.+REBUILD." alt="Typing SVG" />
+<img src="https://github.com/PavanKumar-HQ.png" width="150" height="150" style="border-radius:50%;border:3px solid #00FF41;box-shadow:0 0 20px #00FF41;"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=650&lines=2nd-Year+BCA+Student+%E2%80%A2+Bangalore%2C+India;root%40geniusphere%3A~%23" alt="Typing SVG" />
-
-<br/>
-
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
-<a href="https://github.com/Geniuspheres"><img src="https://img.shields.io/badge/ORG%3A_GENIUSPHERES-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
-
-</div>
-
-<br/>
+<br/><br/>
 
 ```
 ██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
@@ -34,9 +23,25 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&width=100%" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=650&lines=2nd-Year+BCA+Student+%E2%80%A2+Bangalore%2C+India;root%40geniusphere%3A~%23" alt="Typing SVG" />
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://github.com/Geniuspheres"><img src="https://img.shields.io/badge/ORG%3A_GENIUSPHERES-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PavanKumar-HQ&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00FF41&labelColor=000000&style=for-the-badge&label=LOCAL%20TIME&query=%24.time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata"/>
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&width=100%" width="100%"/>
 
 <br/>
 
@@ -50,6 +55,25 @@ pavan@geniusphere:~$ whoami
 
 pavan@geniusphere:~$ cat mindset.txt
 > Build → Test → Break → Learn → Build Better
+```
+
+<br/>
+
+```
+███╗   ██╗ ██████╗ ██╗    ██╗
+████╗  ██║██╔═══██╗██║    ██║
+██╔██╗ ██║██║   ██║██║ █╗ ██║
+██║╚██╗██║██║   ██║██║███╗██║
+██║ ╚████║╚██████╔╝╚███╔███╔╝
+╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝
+```
+
+```yaml
+Working on:   Growing Geniusphere's next student workshop cohort
+Exploring:    Agentic AI workflows + applied ML for real products
+Learning:     System design fundamentals
+Shipping:     A new Brandex product experiment
+Open to:      Collabs, internships, student tech partnerships
 ```
 
 <br/>
@@ -181,6 +205,38 @@ Digital products & business experimentation lab — find the problem, prototype 
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PavanKumar-HQ&theme=matrix&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
+
+<br/>
+
+<!--
+  Snake contribution graph — animates your commit grid as a snake eating each
+  contribution square. Needs a one-time GitHub Actions setup (I'll walk you
+  through it if you want it): platane/snk generates the SVG below on a
+  schedule and commits it to an `output` branch.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/PavanKumar-HQ/PavanKumar-HQ/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+```
+ ██████╗ ██████╗ ██╗     ██╗      █████╗ ██████╗
+██╔════╝██╔═══██╗██║     ██║     ██╔══██╗██╔══██╗
+██║     ██║   ██║██║     ██║     ███████║██████╔╝
+██║     ██║   ██║██║     ██║     ██╔══██║██╔══██╗
+╚██████╗╚██████╔╝███████╗███████╗██║  ██║██████╔╝
+ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝
+```
+
+<div align="center">
+
+Building something in EdTech, AI or digital products? Let's talk.
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/SAY_HI-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://github.com/Geniuspheres"><img src="https://img.shields.io/badge/VISIT_GENIUSPHERE-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=000000"/></a>
+
 </div>
 
 <br/>
