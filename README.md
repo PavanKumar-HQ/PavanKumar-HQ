@@ -1,7 +1,12 @@
 
-Hey, I'm Pavan Kumar
+
 # 💫 About Me:
-🔭 Full-Stack Developer | CEO at Brandex | Technology & Education <br>🤝 I'm a developer and entrepreneur passionate about building practical technology solutions that solve real-world problems. My work spans full-stack development, AI integration, automation, and technology-driven education. <br>I enjoy turning ideas into working products, experimenting with emerging technologies, and building initiatives that connect technology with real-world needs.<br> 🚀 Building: Software products, web applications, and automation solutions at Brandex.<br>
+
+Hey, I'm Pavan Kumar
+
+🔭 Full-Stack Developer | CEO at Brandex | Technology & Education <br>🤝 I'm a developer and entrepreneur passionate about building practical technology solutions that solve real-world problems. My work spans full-stack development, AI integration, automation, and technology-driven education. <br>
+
+I enjoy turning ideas into working products, experimenting with emerging technologies, and building initiatives that connect technology with real-world needs.<br> 🚀 Building: Software products, web applications, and automation solutions at Brandex.<br>
 
 <br> 🎓 Education: Driving technology literacy and hands-on learning initiatives through Geniusphere.<br>
 
