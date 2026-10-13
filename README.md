@@ -10,7 +10,6 @@ Hey, I'm Pavan Kumar
 I enjoy turning ideas into working products, experimenting with emerging technologies, and building initiatives that connect technology with real-world needs.<br> 
 
 🚀 Building: Software products, web applications, and automation solutions at Brandex.<br>
-
 <br> 🎓 Education: Driving technology literacy and hands-on learning initiatives through Geniusphere.<br>
 <br> 💻 Development: Building full-stack applications, APIs, and database-driven systems.<br>
 <br> 🤖 AI: Exploring LLM integrations and AI-powered applications.<br>
